@@ -21,7 +21,7 @@ export default function App() {
       <div className="glow orb2" />
 
       <div className="glass">
-        <h1>Vyom Facility Pvt. Ltd.</h1>
+        <h1>Vyom Facility</h1>
 
         <h2>{displayed}<span className="cursor">|</span></h2>
 
