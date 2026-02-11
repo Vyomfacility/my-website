@@ -1,0 +1,45 @@
+[2026-02-09 12:20:06] [42.104.179.196] Starting reindex for JetBackup Linux
+[2026-02-09 12:20:57] [42.104.179.196] Execution time: 51
+[2026-02-09 12:20:57] [42.104.179.196] TTL time: 0
+[2026-02-09 12:20:57] [42.104.179.196] Hiding all destination snapshots
+[2026-02-09 12:20:57] [42.104.179.196] Execution time: 51
+[2026-02-09 12:20:57] [42.104.179.196] TTL time: 0
+[2026-02-09 12:20:58] [42.104.179.196] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-09 12:20:58] [42.104.179.196] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-09 12:20:58] [42.104.179.196] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-09 12:20:58] [42.104.179.196] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-09 12:20:58] [42.104.179.196] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-09 12:20:58] [42.104.179.196] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-09 12:20:58] [42.104.179.196] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-09 12:20:58] [42.104.179.196] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-09 12:20:58] [42.104.179.196] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-09 12:20:58] [42.104.179.196] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-09 12:20:58] [42.104.179.196] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-09 12:20:58] [42.104.179.196] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-09 12:20:58] [42.104.179.196] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-09 12:20:58] [42.104.179.196] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-09 12:20:58] [42.104.179.196] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-09 12:20:58] [42.104.179.196] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-09 12:20:58] [42.104.179.196] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-09 12:20:58] [42.104.179.196] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-09 12:20:58] [42.104.179.196] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-09 12:20:58] [42.104.179.196] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-09 12:20:58] [42.104.179.196] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-09 12:20:58] [42.104.179.196] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-09 12:20:58] [42.104.179.196] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-09 12:20:58] [42.104.179.196] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-09 12:20:58] [42.104.179.196] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-09 12:20:58] [42.104.179.196] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-09 12:20:59] [42.104.179.196] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-09 12:20:59] [42.104.179.196] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-09 12:20:59] [42.104.179.196] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-09 12:20:59] [42.104.179.196] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-09 12:20:59] [42.104.179.196] 	[_handleJBSnapshot] New snapshot found! Importing to local database...
+[2026-02-09 12:20:59] [42.104.179.196] 	[_handleJBSnapshot] New snapshot found! Importing to local database...
+[2026-02-09 12:20:59] [42.104.179.196] 	[_handleJBSnapshot] New snapshot found! Importing to local database...
+[2026-02-09 12:20:59] [42.104.179.196] 	[_handleJBSnapshot] New snapshot found! Importing to local database...
+[2026-02-09 12:20:59] [42.104.179.196] Execution time: 53
+[2026-02-09 12:20:59] [42.104.179.196] TTL time: 0
+[2026-02-09 12:20:59] [42.104.179.196] Removing all unneeded snapshots
+[2026-02-09 12:20:59] [42.104.179.196] Completed!
+[2026-02-09 12:20:59] [42.104.179.196] Total time: 0

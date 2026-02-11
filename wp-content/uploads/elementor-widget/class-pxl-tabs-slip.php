@@ -1,0 +1,11 @@
+<?php
+
+class PxlTabsSlip_Widget extends Pxltheme_Core_Widget_Base{
+    protected $name = 'pxl_tabs_slip';
+    protected $title = 'BR Tabs Slip';
+    protected $icon = 'eicon-tabs';
+    protected $categories = array( 'pxltheme-core' );
+    protected $params = '{"sections":[{"name":"section_layout","label":"Layout","tab":"layout","controls":[{"name":"layout","label":"Templates","type":"layoutcontrol","default":"1","options":{"1":{"label":"Layout 1","image":"https:\/\/demo2026.sbs\/vyom\/wp-content\/themes\/herrington\/elements\/templates\/pxl_tabs_slip\/layout-image\/layout1.jpg"}}}]},{"name":"tab_content","label":"Tabs","tab":"content","controls":[{"name":"tabs","label":"Content","type":"repeater","controls":[{"name":"content_template","label":"Select Templates","type":"select","options":{"0":"None","2636":"Tab Slip - 1","2646":"Tab Slip \u2013 3","2645":"Tab Slip \u2013 2","5750":"Tab - Why Need Marketing?","5752":"Tab - Why Choose Us?","5754":"Tab - How It Work?","5756":"Tab - Our Commitment","9762":"Tab - Financial Planning","9764":"Tab - Performance Analysis","9765":"Tab - Investment Advisory","11512":"Tab - Post 1","11514":"Tab - Post 2","11515":"Tab - Post 3","11602":"Tab - Insurance 1","11603":"Tab - Insurance 2","11604":"Tab - Insurance 3","11609":"Tab - Insurance 4","14499":"Tab Hr 1","14578":"Tab HR 2","14579":"Tab HR 3","14580":"Tab HR 4","14581":"Tab HR 5","14582":"Tab HR 6","15813":"Tab - Immigration 1","17711":"Testimonial 1 - Saas","17740":"Testimonial 2 \u2013 Remote","17873":"Tab - Remote About","17871":"Tab - Remote Our Mission","17872":"Tab - Remote Our Vision","18773":"Tab - Access Control","19276":"Tab \u2013 Spending Insights","19277":"Tab \u2013 Revenue Tracking","19280":"Tab \u2013  Workflow Approvals","19803":"Tab Slip \u2013 4","19808":"Tab Slip \u2013 5","19815":"Tab Slip \u2013 6","19818":"Tab Slip \u2013 7"},"default":"df","description":"Add new tab template: \"<a href=\"https:\/\/demo2026.sbs\/vyom\/wp-admin\/edit.php?post_type=pxl-template\" target=\"_blank\">Click Here<\/a>\""}]}]}]}';
+    protected $styles = array(  );
+    protected $scripts = array( 'herrington-tabs' );
+}

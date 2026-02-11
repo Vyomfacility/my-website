@@ -1,0 +1,96 @@
+/*--------------------------------------------------------------
+TEAM Carousel
+----------------------------------------------------------------
+# Team Carousel
+--------------------------------------------------------------*/
+
+
+.pxl-team-grid1,.pxl-team-carousel1 {
+	.pxl-grid-item,.pxl-swiper-slide {
+		margin-bottom: 60px;
+		.pxl-item--inner  {
+			.pxl-item--position{
+				font-size: 15px;
+				color: #4b535d;
+				line-height: 30px;
+				@extend .ft-public;
+				text-align: center;
+				margin-top: 5px;
+			}
+			.pxl-item--title {
+				text-align: center;
+				margin-top: 29px;
+				font-size: 23px;
+				margin-bottom: 0;
+				color: #fff;
+				font-weight: 500;
+				line-height: 30px;
+				@extend .ft-theme-default;
+			}
+			.pxl-item--image {
+				position:relative;
+				img {
+					@include transition(all .35s cubic-bezier(.645,.045,.355,1));
+					width: 100%;
+				}
+			}
+			.pxl-social--wrap {
+				position: absolute;
+				bottom: 22px;
+				right: 22px;
+				span {
+					display: block;
+					width: 51px;
+					height: 51px;
+					backdrop-filter: blur(100px);
+					border-radius: 100px;
+					color: #fff;
+					text-align: center;
+					line-height: 51px;
+					background-color: rgba(255,255,255,0.2);
+					font-size: 15px;
+					margin-top: 7px;
+				}
+				.pxl-social {
+					padding:  20px 18px;
+					border-radius: 100px;
+					display: grid;
+					backdrop-filter: blur(100px);
+					@include transition(all .25s cubic-bezier(.645,.045,.355,1));
+					opacity: 0;
+					transform: translateY(-20px);
+					background-color: rgba(255,255,255,0.2);
+					a {
+						font-size: 15px;
+						color: #fff;
+						text-align: center;
+						margin-bottom: 15px;
+						@include transition(all .25s cubic-bezier(.645,.045,.355,1));
+						&:last-child {
+							margin-bottom: 0;
+						}
+						&:hover {
+							opacity: 0.7;
+						}
+					}
+				}
+			}
+		}
+		&:hover {
+			.pxl-social--wrap {
+				.pxl-social {
+					transform:translatey(0);
+					opacity: 1;
+				}
+			}
+		}
+	}
+	.pxl-swiper-slide {
+		margin-bottom: 0;
+	}
+}
+/*--------------------------------------------------------------
+TEAM GRID
+----------------------------------------------------------------
+# Team Grid
+--------------------------------------------------------------*/

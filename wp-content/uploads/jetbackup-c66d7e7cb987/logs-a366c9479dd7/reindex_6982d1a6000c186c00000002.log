@@ -1,0 +1,37 @@
+[2026-02-04 04:58:37] [223.184.230.254] Starting reindex for JetBackup Linux
+[2026-02-04 04:59:40] [223.184.230.254] Execution time: 63
+[2026-02-04 04:59:40] [223.184.230.254] TTL time: 0
+[2026-02-04 04:59:40] [223.184.230.254] Hiding all destination snapshots
+[2026-02-04 04:59:40] [223.184.230.254] Execution time: 63
+[2026-02-04 04:59:40] [223.184.230.254] TTL time: 0
+[2026-02-04 04:59:40] [223.184.230.254] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-04 04:59:40] [223.184.230.254] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-04 04:59:40] [223.184.230.254] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-04 04:59:40] [223.184.230.254] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-04 04:59:40] [223.184.230.254] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-04 04:59:40] [223.184.230.254] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-04 04:59:40] [223.184.230.254] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-04 04:59:40] [223.184.230.254] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-04 04:59:40] [223.184.230.254] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-04 04:59:40] [223.184.230.254] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-04 04:59:40] [223.184.230.254] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-04 04:59:40] [223.184.230.254] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-04 04:59:40] [223.184.230.254] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-04 04:59:40] [223.184.230.254] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-04 04:59:40] [223.184.230.254] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-04 04:59:41] [223.184.230.254] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-04 04:59:41] [223.184.230.254] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-04 04:59:41] [223.184.230.254] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-04 04:59:41] [223.184.230.254] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-04 04:59:41] [223.184.230.254] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-04 04:59:41] [223.184.230.254] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-04 04:59:41] [223.184.230.254] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-04 04:59:41] [223.184.230.254] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-04 04:59:41] [223.184.230.254] 	[_handleJBSnapshot] Snapshot found on local database, skipping import
+[2026-02-04 04:59:41] [223.184.230.254] 	[_handleJBSnapshot] New snapshot found! Importing to local database...
+[2026-02-04 04:59:41] [223.184.230.254] 	[_handleJBSnapshot] New snapshot found! Importing to local database...
+[2026-02-04 04:59:41] [223.184.230.254] Execution time: 64
+[2026-02-04 04:59:41] [223.184.230.254] TTL time: 0
+[2026-02-04 04:59:41] [223.184.230.254] Removing all unneeded snapshots
+[2026-02-04 04:59:41] [223.184.230.254] Completed!
+[2026-02-04 04:59:41] [223.184.230.254] Total time: 0

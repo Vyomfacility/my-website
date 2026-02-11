@@ -1,0 +1,11 @@
+<?php
+
+class PxlBannerBox_Widget extends Pxltheme_Core_Widget_Base{
+    protected $name = 'pxl_banner_box';
+    protected $title = 'BR Banner Box';
+    protected $icon = 'eicon-posts-ticker';
+    protected $categories = array( 'pxltheme-core' );
+    protected $params = '{"sections":[{"name":"section_layout","label":"Layout","tab":"layout","controls":[{"name":"layout","label":"Templates","type":"layoutcontrol","default":"1","options":{"1":{"label":"Layout 1","image":"https:\/\/demo2026.sbs\/vyom\/wp-content\/themes\/herrington\/elements\/widgets\/img-layout\/pxl_banner_box\/layout1.jpg"}}}]},{"name":"section_content","label":"Content","tab":"content","controls":[{"name":"banner_image","label":"Image","type":"media"},{"name":"title","label":"Title","type":"text","default":"Title"},{"name":"button_text","label":"Button Text","type":"text","default":"Click Here"},{"name":"link","label":"Link Button","type":"url","label_block":true}]},{"name":"section_style_title","label":"Title ","tab":"style","controls":[{"name":"tlcolor","label":"Color","type":"color","selectors":{"{{WRAPPER}} .pxl-banner .title-box":"color: {{VALUE}};"}},{"name":"tl_typography","label":"Typography","type":"typography","control_type":"group","selector":"{{WRAPPER}} .pxl-banner .title-box"}]},{"name":"section_style_button","label":"Button ","tab":"style","controls":[{"name":"btn_padding","label":"Padding","type":"dimensions","size_units":["px"],"selectors":{"{{WRAPPER}} .pxl-banner a":"padding: {{TOP}}{{UNIT}} {{RIGHT}}{{UNIT}} {{BOTTOM}}{{UNIT}} {{LEFT}}{{UNIT}};"},"control_type":"responsive"},{"name":"color","label":"Color","type":"color","selectors":{"{{WRAPPER}} .pxl-banner a":"color: {{VALUE}};"}},{"name":"color_hv","label":"Color Hover","type":"color","selectors":{"{{WRAPPER}} .pxl-banner a:hover":"color: {{VALUE}};"}},{"name":"btn_bg_color","label":"Background Color","type":"color","selectors":{"{{WRAPPER}} .pxl-banner a":"background-color: {{VALUE}};"}},{"name":"btn_bg_color_hv","label":"Background Color Hover","type":"color","selectors":{"{{WRAPPER}} .pxl-banner a:hover":"background-color: {{VALUE}};"}},{"name":"btn_typography","label":"Typography","type":"typography","control_type":"group","selector":"{{WRAPPER}} .pxl-banner a"}]}]}';
+    protected $styles = array(  );
+    protected $scripts = array(  );
+}
